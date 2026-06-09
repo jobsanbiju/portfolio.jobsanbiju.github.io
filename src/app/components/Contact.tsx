@@ -2,7 +2,7 @@ import { motion, useReducedMotion } from 'motion/react';
 import { Instagram, Mail } from 'lucide-react';
 import HalationText from './HalationText';
 
-const email = 'jobsanbiju4@gmail.com';
+const email = 'job@jobsanbiju.com';
 const instagramUrl = 'https://instagram.com/jobsanbiju';
 
 export function Contact() {
